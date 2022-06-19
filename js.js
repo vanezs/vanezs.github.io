@@ -65,6 +65,7 @@ function writeTextByJS(id, text, speed){
    return false;
 };
  
+typewriter();
 writeTextByJS(
     "demo",
      [
