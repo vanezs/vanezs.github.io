@@ -20,7 +20,7 @@ function loadQuote()
     })
 
     .then(data => {
-        quoteArray[index] = data.content;
+        quoteArray[index] = "мя мя мя мя мя ";
     })
 }
 
