@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURV_1.0", "SURV_1.0.csproj", "{1C554AEA-EFFB-44EC-A155-AF5A382318CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C554AEA-EFFB-44EC-A155-AF5A382318CB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD8D8C2-557E-41BF-9853-B18770F3B873}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,252 @@
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\bin\Debug\BD_Surv.mdf
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\bin\Debug\SURV_1.0.exe
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\bin\Debug\SURV_1.0.pdb
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1.0.exe
+C:\Users\vanezs42\Desktop\ДИПЛОМ\РАБОЧЕЕ ПРОСТРАНСТВО ПРОГРАММА\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\FULLBILD\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\FULLBILD\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\FULLBILD\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\FULLBILD\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.UI.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.World.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\OpenTK.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\OpenTK.GLControl.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\ZedGraph.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.UI.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\Emgu.CV.World.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\OpenTK.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\OpenTK.GLControl.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\ZedGraph.xml
+D:\FULLBILD\SURV_1.0\bin\Debug\de\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\es\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\it\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\ru\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\sk\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1.0.csproj.CopyComplete
+D:\FULLBILD\SURV_1.0\obj\Debug\SURV_1._0_FaceRecognizer.Register.resources
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.UI.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.World.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\OpenTK.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\OpenTK.GLControl.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\ZedGraph.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.UI.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\Emgu.CV.World.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\OpenTK.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\OpenTK.GLControl.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\ZedGraph.xml
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\de\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\es\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\it\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\ru\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\sk\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0_FaceRecognizer.Register.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.csproj.CopyComplete
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\FULLBILD V0.2\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.UI.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.World.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\OpenTK.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\OpenTK.GLControl.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\ZedGraph.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.UI.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\Emgu.CV.World.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\OpenTK.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\OpenTK.GLControl.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\ZedGraph.xml
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\de\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\es\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\it\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\ru\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\sk\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0_FaceRecognizer.Register.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.csproj.CopyComplete
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\FULLBILD V0.3\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.UI.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.World.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\OpenTK.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\OpenTK.GLControl.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\ZedGraph.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.UI.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\Emgu.CV.World.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\OpenTK.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\OpenTK.GLControl.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\ZedGraph.xml
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\de\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\es\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\it\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\ru\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\sk\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0_FaceRecognizer.Register.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.csproj.CopyComplete
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\FULLBILD V0.4\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_Surv.mdf
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_Surv_log.ldf
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\SURV_1.0.exe.config
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\SURV_1.0.exe
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.UI.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.World.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\OpenTK.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\OpenTK.GLControl.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\ZedGraph.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.UI.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.UI.GL.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\Emgu.CV.World.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\OpenTK.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\OpenTK.GLControl.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\ZedGraph.xml
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\de\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\es\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\fr\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\hu\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\it\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\ja\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\pt\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\ru\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\sk\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\sv\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\tr\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.AssemblyReference.cache
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.SuggestedBindingRedirects.cache
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0.Aut.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0_FaceRecognizer.Register.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0.indicators.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0.MainFormA.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0.MainFormS.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1._0.Properties.Resources.resources
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.GenerateResource.cache
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.CoreCompileInputs.cache
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.CopyComplete
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.exe
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.pdb
+D:\FULLBILD V0.5 testDB\SURV_1.0\obj\Debug\SURV_1.0.csproj.ResolveComReference.cache
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_SurvDataSet.cs
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_SurvDataSet.Designer.cs
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_SurvDataSet.xsc
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_SurvDataSet.xsd
+D:\FULLBILD V0.5 testDB\SURV_1.0\bin\Debug\BD_SurvDataSet.xss

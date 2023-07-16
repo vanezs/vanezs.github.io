@@ -1,0 +1,21 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    padding: 20px;
+    font-size: 22px;
+    background-color: black;
+    color: gainsboro;
+    text-shadow: 0 0 15px red;
+}
+
+
+span{
+    animation: blinker ls linear infinite;
+}
+
+@keyframes blinker {
+    50%
+    {
+        opacity: 0;
+    }
+}

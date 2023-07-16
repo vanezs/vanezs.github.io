@@ -1,0 +1,28 @@
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.csproj.AssemblyReference.cache
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfoInputs.cache
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfo.cs
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.csproj.CoreCompileInputs.cache
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.exe
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.deps.json
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.runtimeconfig.json
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.runtimeconfig.dev.json
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.dll
+C:\Users\vanezs42\source\repos\KeyHook\bin\Debug\netcoreapp3.1\KeyHook.pdb
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.dll
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.pdb
+C:\Users\vanezs42\source\repos\KeyHook\obj\Debug\netcoreapp3.1\KeyHook.genruntimeconfig.cache
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.exe
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.deps.json
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.runtimeconfig.json
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.runtimeconfig.dev.json
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.dll
+D:\KEYHOOK\KeyHook Project\bin\Debug\netcoreapp3.1\KeyHook.pdb
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.csproj.AssemblyReference.cache
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.GeneratedMSBuildEditorConfig.editorconfig
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfoInputs.cache
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.AssemblyInfo.cs
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.csproj.CoreCompileInputs.cache
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.dll
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.pdb
+D:\KEYHOOK\KeyHook Project\obj\Debug\netcoreapp3.1\KeyHook.genruntimeconfig.cache

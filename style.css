@@ -1,0 +1,14 @@
+body {
+	background: #000;
+	overflow: hidden;
+}
+
+canvas {
+	display: block;
+}
+
+#SURV_1 {
+    color: aqua;
+    position: absolute;
+    width: 500px;
+}
